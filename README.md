@@ -1,21 +1,3 @@
----
-geometry: margin=1in
-fontsize: 12pt
-colorlinks: true
-toc: false
-mainfont: "Roboto"
-linkcolor: blue
-urlcolor: blue
-mainfont: "Helvetica"
-colorlinks: true
-header-includes:
-  - \usepackage{enumitem}
-  - \setlist[itemize]{itemsep=2pt, topsep=2pt}
-  - \setlist[enumerate]{itemsep=2pt, topsep=2pt}
-  - \usepackage{setspace}
-  - \setstretch{1.2}
----
-
 # Alex D'agostino Aleksandrov - IoT Developer
 
 ## About Me
