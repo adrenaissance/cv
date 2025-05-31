@@ -1,0 +1,34 @@
+name: Auto CV Build
+
+on:
+  push:
+    paths:
+      - 'cv.md'
+      - 'pandoc_metadata.yaml'
+      - 'script.sh'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive texlive-xetex fonts-roboto
+
+      - name: Run script.sh
+        run: |
+          chmod +x ./script.sh
+          ./script.sh
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md cv.pdf
+          git commit -m "Auto-update CV files from script.sh" || echo "No changes"
+          git push
