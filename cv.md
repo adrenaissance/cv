@@ -1,11 +1,7 @@
 # Alex D'agostino Aleksandrov - IoT Developer
 
----
-
 ## About Me
 I've been captivated by the world of IoT for years - fascinated by the silent conversations happening behind the scenes between devices, microservices, and infrastructure. I love building the invisible layers that bring everyday products to life.
-
----
 
 ## Professional Experience
 
