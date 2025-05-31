@@ -17,12 +17,12 @@ February 2024 - March 2024
 March 2024 - April 2024
 
 **Full Stack Developer - Salvo Geotracking solutions**
-- Created a geofence drawing tool and project organization platform using C#, ASP.NET, Azure, React.
-- Enabled near-instant geofence suggestions based on historical data and user location.
-- Automated geofence loading and project creation workflows for users.
+- Created a **geofence drawing tool** and project organization platform using **C#**, **ASP.NET**, Azure services and **React**.
+- Enabled **near-instant geofence suggestions** based on historical data and user location.
+- **Automated geofence loading and project creation workflows** for users.
 
 #### Phasefour, Eindhoven, NL
-April 2024 - **Frijado**
+April 2024
 
 **Full Stack Developer - Frijado Proof of Concept**
 - Designed and built **a POC that led to client acquisition**, incorporating:
@@ -43,7 +43,7 @@ February 2025 - Present
 - Working on distributed system architecture with technologies such as **Go**, **Rust**, **Wasm**, **Dapr**, **Openshift** and many more.
 - Key contributions:
   - Developed and deployed **Twelve Factor Applications**
-  - Designed an **Observation API** integrating with InfluxDB and MongoDB
+  - Designed an **Observation API** integrating with **InfluxDB** and **MongoDB**
   - **Removed technical debt** through refactoring or full rewrites
   - **Reduced CPU usage by 10x and RAM by 15x** across multiple microservices
   - **Added comprehensive documentation and OpenAPI/AsyncAPI specifications**
