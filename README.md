@@ -1,10 +1,10 @@
-# Alex D'agostino Aleksandrov - FS/IoT/Devops engineer
+# Alex D'agostino Aleksandrov - FS/IoT/Devops
 
 ## About Me
 I am passionate about **hardware**, **software**, and **automation** — especially the intersection where they all meet. 
 Throughout my career, I’ve worked in **hybrid** roles that bridge **software development** and **DevOps**, allowing me to follow the entire lifecycle of an IoT or web product.
 From designing and building the client-facing applications (**frontend**) to developing the API and business logic layers (**backend**), and all the way to deploying and maintaining the underlying infrastructure, I’ve been involved in every step of the process.
-I have extensive hands-on experience in cloud-native environments, working with tools such as *Kubernetes*, *Docker*, *Argo CD*, and *OpenShift*, as well as with cloud provider ecosystems like *Azure DevOps*. This background enables me to design, build, and automate reliable, scalable systems end to end.
+I have extensive hands-on experience in cloud-native environments, working with tools such as **Kubernetes**, **Docker**, **Argo CD**, and **OpenShift**, as well as with cloud provider ecosystems like **Azure DevOps**. This background enables me to design, build, and automate reliable, scalable systems end to end.
 
 ## Professional Experience
 
