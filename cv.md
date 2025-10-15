@@ -1,7 +1,10 @@
-# Alex D'agostino Aleksandrov - IoT Developer
+# Alex D'agostino Aleksandrov - Full Stack / IoT Developer
 
 ## About Me
-I've been captivated by the world of IoT for years - fascinated by the silent conversations happening behind the scenes between devices, microservices, and infrastructure. I love building the invisible layers that bring everyday products to life.
+I am passionate about **hardware**, **software**, and **automation** — especially the intersection where they all meet. 
+Throughout my career, I’ve worked in **hybrid** roles that bridge **software development** and **DevOps**, allowing me to follow the entire lifecycle of an IoT or web product.
+From designing and building the client-facing applications (**frontend**) to developing the API and business logic layers (**backend**), and all the way to deploying and maintaining the underlying infrastructure, I’ve been involved in every step of the process.
+I have extensive hands-on experience in cloud-native environments, working with tools such as Kubernetes, Docker, Argo CD, and OpenShift, as well as with cloud provider ecosystems like Azure DevOps and Azure Pipelines. This background enables me to design, build, and automate reliable, scalable systems end to end.
 
 ## Professional Experience
 
@@ -12,7 +15,6 @@ I've been captivated by the world of IoT for years - fascinated by the silent co
 - Developed a **battery-efficient** user tracking app using client-side geofencing (**Swift**, **SwiftUI**, **SQLite**, **iOS**).
 - Achieved **less than 10% daily battery consumption** while maintaining reliable background operation.
 - Quickly prototyped and optimized **under a tight 1-month deadline**.
-
 
 **Phasefour, Eindhoven, NL | Full Stack Developer | Salvo Geotracking solutions**
 
@@ -38,9 +40,9 @@ I've been captivated by the world of IoT for years - fascinated by the silent co
 - Delivered a full-featured **real time IoT dashboard** using **C#**, **ASP.NET**, **React18**, **Microsoft EntraID**, **MSSQL**.
 - Features included **device onboarding**, **monitoring**, **custom rule engine**, **application insights**, and secure auth via Entra ID.
 
-**CGM Consulting, Turin | Backend Developer | Sense Reply/Gridspertise**
+**Sense Reply/Gridspertise**
 
-*February 2025 - Present*
+*February 2025 - September 2025*
 
 - Working on distributed system architecture with technologies such as **Go**, **Rust**, **Wasm**, **Dapr**, **Openshift** and many more.
 - Key contributions:
@@ -51,6 +53,17 @@ I've been captivated by the world of IoT for years - fascinated by the silent co
   - **Removed technical debt** through refactoring or full rewrites
   - **Reduced CPU usage by 10x and RAM by 15x** across multiple microservices
   - **Added comprehensive documentation and OpenAPI/AsyncAPI specifications**
+
+**MSC Technology (Turin) - Full Stack/Devops**
+
+*September 2025 - Present
+- Working on the myMSC portal, improving bookings, schedules, file transfers, quotations and more (JS/TS, React + Vite, .NET8, .NET Framework)
+- Greatly improved microfrontends, facilitating migration from nx to vite
+- Removed high and critical vulnerabilities from client applications
+- Improved legacy monoliths (.NET Framework)
+- Broken down monoliths into lighter microservices (.NET 8 + React + Vite)
+- Deploying and monitoring Azure resources
+- Writing Azure pipelines for CI/CD
 
 ## Open Source Contributions
 I actively improve tools I use daily, including:
@@ -64,7 +77,7 @@ I actively improve tools I use daily, including:
 *2016 - 2021*
 
 **Technical University of Eindhoven (TU/e)**
-*2021 - 2023*
+*2021 - 2024*
 Bachelor of Computer Science
 
 ## Languages
