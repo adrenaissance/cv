@@ -57,6 +57,7 @@ I have extensive hands-on experience in cloud-native environments, working with 
 **MSC Technology (Turin) - Full Stack/Devops**
 
 *September 2025 - Present*
+
 - Working on the myMSC portal, improving bookings, schedules, file transfers, quotations and more (JS/TS, React + Vite, .NET8, .NET Framework)
 - Greatly improved microfrontends, facilitating migration from nx to vite
 - Removed high and critical vulnerabilities from client applications
